@@ -1,0 +1,9 @@
+﻿  Building Custom Rule D:/GMT/Game Physics/INFOMGP-Practical1/libigl/external/libigl-imgui/CMakeLists.txt
+  CMake does not need to re-run because D:/GMT/Game Physics/Practical_1_Build/imgui/CMakeFiles/generate.stamp is up-to-date.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  Generating Code...
+  imgui.vcxproj -> D:\GMT\Game Physics\Practical_1_Build\imgui\Release\imgui.lib

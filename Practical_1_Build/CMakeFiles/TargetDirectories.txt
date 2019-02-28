@@ -1,0 +1,13 @@
+D:/GMT/Game Physics/Practical_1_Build/CMakeFiles/Practical1_bin.dir
+D:/GMT/Game Physics/Practical_1_Build/CMakeFiles/INSTALL.dir
+D:/GMT/Game Physics/Practical_1_Build/CMakeFiles/ALL_BUILD.dir
+D:/GMT/Game Physics/Practical_1_Build/CMakeFiles/ZERO_CHECK.dir
+D:/GMT/Game Physics/Practical_1_Build/glad/CMakeFiles/glad.dir
+D:/GMT/Game Physics/Practical_1_Build/glad/CMakeFiles/INSTALL.dir
+D:/GMT/Game Physics/Practical_1_Build/glad/CMakeFiles/ALL_BUILD.dir
+D:/GMT/Game Physics/Practical_1_Build/glfw/CMakeFiles/INSTALL.dir
+D:/GMT/Game Physics/Practical_1_Build/glfw/CMakeFiles/ALL_BUILD.dir
+D:/GMT/Game Physics/Practical_1_Build/glfw/src/CMakeFiles/glfw.dir
+D:/GMT/Game Physics/Practical_1_Build/glfw/src/CMakeFiles/INSTALL.dir
+D:/GMT/Game Physics/Practical_1_Build/imgui/CMakeFiles/imgui.dir
+D:/GMT/Game Physics/Practical_1_Build/imgui/CMakeFiles/INSTALL.dir
