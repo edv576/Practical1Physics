@@ -81,8 +81,8 @@ d:\gmt\game physics\infomgp-practical1\libigl\include\igl\opengl\glfw\imgui\ImGu
 d:\gmt\game physics\infomgp-practical1\libigl\include\igl\opengl\glfw\imgui\ImGuiMenu.cpp(389): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
 D:\GMT\Game Physics\INFOMGP-Practical1\libigl\include\igl/opengl/glfw/imgui/ImGuiHelpers.h(40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 D:\GMT\Game Physics\INFOMGP-Practical1\libigl\include\igl/opengl/glfw/imgui/ImGuiHelpers.h(58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\gmt\game physics\infomgp-practical1\scene.h(477): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-d:\gmt\game physics\infomgp-practical1\scene.h(481): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\gmt\game physics\infomgp-practical1\scene.h(511): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\gmt\game physics\infomgp-practical1\scene.h(515): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 D:\GMT\Game Physics\INFOMGP-Practical1\main.cpp(16): warning C4305: 'initializing': truncation from 'double' to 'float'
 d:\gmt\game physics\infomgp-practical1\libigl\include\igl\ortho.cpp(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   d:\gmt\game physics\infomgp-practical1\libigl\include\igl\opengl\ViewerCore.cpp(145): note: see reference to function template instantiation 'void igl::ortho<Eigen::Matrix<float,4,4,0,4,4>>(const float,const float,const float,const float,const float,const float,Eigen::PlainObjectBase<Eigen::Matrix<float,4,4,0,4,4>> &)' being compiled
@@ -106,11 +106,11 @@ d:\gmt\game physics\infomgp-practical1\libigl\include\igl\snap_to_canonical_view
   d:\gmt\game physics\infomgp-practical1\libigl\include\igl\opengl\glfw\Viewer.cpp(881): note: see reference to function template instantiation 'bool igl::snap_to_canonical_view_quat<float,float>(const Eigen::Quaternion<float,0> &,const double,Eigen::Quaternion<float,0> &)' being compiled
 d:\gmt\game physics\infomgp-practical1\libigl\include\igl\readMESH.cpp(248): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
-  d:\gmt\game physics\infomgp-practical1\scene.h(438): note: see reference to function template instantiation 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+  d:\gmt\game physics\infomgp-practical1\scene.h(472): note: see reference to function template instantiation 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
 d:\gmt\game physics\infomgp-practical1\libigl\include\igl\readMESH.cpp(280): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
   d:\gmt\game physics\infomgp-practical1\libigl\include\igl\readMESH.cpp(254): note: see reference to function template instantiation 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(FILE *,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
-  d:\gmt\game physics\infomgp-practical1\scene.h(438): note: see reference to function template instantiation 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
+  d:\gmt\game physics\infomgp-practical1\scene.h(472): note: see reference to function template instantiation 'bool igl::readMESH<Eigen::Matrix<double,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>,Eigen::Matrix<int,-1,-1,0,-1,-1>>(const std::string,Eigen::PlainObjectBase<Eigen::Matrix<double,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &,Eigen::PlainObjectBase<Eigen::Matrix<int,-1,-1,0,-1,-1>> &)' being compiled
 d:\gmt\game physics\infomgp-practical1\libigl\include\igl\readMESH.cpp(290): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
 d:\gmt\game physics\infomgp-practical1\libigl\include\igl\readMESH.cpp(293): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
@@ -390,5 +390,13 @@ d:\gmt\game physics\infomgp-practical1\libigl\include\igl\parallel_for.h(133): w
               Index=Index,
               FunctionType=igl::doublearea::<lambda_5bf34aa41c64e684ea2e9784d7c4827d>
           ]
+     Creating library D:/GMT/Game Physics/Practical_1_Build/Debug/Practical1_bin.lib and object D:/GMT/Game Physics/Practical_1_Build/Debug/Practical1_bin.exp
+main.obj : warning LNK4217: locally defined symbol ccdFirstDirDefault imported in function "public: bool __cdecl Mesh::isCollide(class Mesh const &,double &,class Eigen::Matrix<double,1,3,1,1,3> &,class Eigen::Matrix<double,1,3,1,1,3> &)" (?isCollide@Mesh@@QEAA_NAEBV1@AEANAEAV?$Matrix@N$00$02$00$00$02@Eigen@@2@Z)
+main.obj : warning LNK4217: locally defined symbol ccdMPRPenetration imported in function "public: bool __cdecl Mesh::isCollide(class Mesh const &,double &,class Eigen::Matrix<double,1,3,1,1,3> &,class Eigen::Matrix<double,1,3,1,1,3> &)" (?isCollide@Mesh@@QEAA_NAEBV1@AEANAEAV?$Matrix@N$00$02$00$00$02@Eigen@@2@Z)
+ccd.obj : warning LNK4217: locally defined symbol ccdVec3PointSegmentDist2 imported in function nextSupport
+polytope.obj : warning LNK4049: locally defined symbol ccdVec3PointSegmentDist2 imported
+ccd.obj : warning LNK4217: locally defined symbol ccdVec3PointTriDist2 imported in function doSimplex3
+mpr.obj : warning LNK4049: locally defined symbol ccdVec3PointTriDist2 imported
+polytope.obj : warning LNK4049: locally defined symbol ccdVec3PointTriDist2 imported
   Practical1_bin.vcxproj -> D:\GMT\Game Physics\Practical_1_Build\Debug\Practical1_bin.exe
   Practical1_bin.vcxproj -> D:/GMT/Game Physics/Practical_1_Build/Debug/Practical1_bin.pdb (Full PDB)
